@@ -1,6 +1,6 @@
 ---
 templateKey: test-page
-title: Our Coffee No
+title: Test Page
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
